@@ -1,0 +1,358 @@
+
+
+1
+
+{
+
+2
+
+  "type": "FeatureCollection",
+
+3
+
+  "etag": "aab2510cdee8bc131350c0997daa977d",
+
+4
+
+  "features": [
+
+5
+
+    {
+
+6
+
+      "id": "1645604356",
+
+7
+
+      "type": "Feature",
+
+8
+
+      "properties": {
+
+9
+
+        "category": "GUIDING",
+
+10
+
+        "sourceLink": "1155342204",
+
+11
+
+        "featureType": "DirectionSign",
+
+12
+
+        "destinations": [
+
+13
+
+          {
+
+14
+
+            "signEntries": [
+
+15
+
+              {
+
+16
+
+                "entryType": "TOWARD",
+
+17
+
+                "signTexts": [
+
+18
+
+                  {
+
+19
+
+                    "text": "K/Nasarawa",
+
+20
+
+                    "languageCode": "ENG"
+
+21
+
+                  }
+
+22
+
+                ]
+
+23
+
+              },
+
+24
+
+              {
+
+25
+
+                "entryType": "TOWARD",
+
+26
+
+                "signTexts": [
+
+27
+
+                  {
+
+28
+
+                    "text": "Sabon Gari Township",
+
+29
+
+                    "languageCode": "ENG"
+
+30
+
+                  }
+
+31
+
+                ]
+
+32
+
+              }
+
+33
+
+            ],
+
+34
+
+            "destinationLink": "1155396474"
+
+35
+
+          },
+
+36
+
+          {
+
+37
+
+            "signEntries": [
+
+38
+
+              {
+
+39
+
+                "entryType": "TOWARD",
+
+40
+
+                "signTexts": [
+
+41
+
+                  {
+
+42
+
+                    "text": "F C E Kano",
+
+43
+
+                    "languageCode": "ENG"
+
+44
+
+                  }
+
+45
+
+                ]
+
+46
+
+              }
+
+47
+
+            ],
+
+48
+
+            "destinationLink": "1152688870"
+
+49
+
+          },
+
+50
+
+          {
+
+51
+
+            "signEntries": [
+
+52
+
+              {
+
+53
+
+                "entryType": "TOWARD",
+
+54
+
+                "signTexts": [
+
+55
+
+                  {
+
+56
+
+                    "text": "Challawa Dorayi",
+
+57
+
+                    "languageCode": "ENG"
+
+58
+
+                  }
+
+59
+
+                ]
+
+60
+
+              }
+
+61
+
+            ],
+
+62
+
+            "destinationLink": "1155324711"
+
+63
+
+          }
+
+64
+
+        ],
+
+65
+
+        "isoCountryCode": "NGA",
+
+66
+
+        "@ns:com:here:xyz": {
+
+67
+
+          "tags": [],
+
+68
+
+          "space": "Rv3JLYSi",
+
+69
+
+          "createdAt": 1605057918673,
+
+70
+
+          "updatedAt": 1605057918673
+
+71
+
+        },
+
+72
+
+        "@ns:com:here:mom:meta": {
+
+73
+
+          "layerId": "destination-signs",
+
+74
+
+          "sourceId": "here-product-primitives-destination-signs-geojson-ext-v1",
+
+75
+
+          "modelVersion": "1.0.0"
+
+76
+
+        }
+
+77
+
+      },
+
+78
+
+      "geometry": {
+
+79
+
+        "type": "MultiLineString",
+
+80
+
+        "coordinates": [
+
+81
+
+          [
+
+82
+
+            [
+
+83
+
+              8.48273,
+
+84
+
+              11.98101,
+
+85
+
+              0
+
+86
+
+            ],
+
+87
+
+            [
+
+88
+
+              8.48259,
+
+89
+
+              11.98132,
+
