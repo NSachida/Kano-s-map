@@ -1,8 +1,9 @@
 # Kano-s-map
 _**description**_
 
-> Geojson data city map views of Kano city, Nigeri!
-generated with **Here** data hub credentials! (Geojson tools)
+> Kano state, Nigeria city map views!
+> generated with **Here** data hub credentials! 
+(Geojson tools)
 
 [**Kano destination sings**](http://geojson.tools/index.html?url=https://xyz.api.here.com/hub/spaces/Rv3JLYSi/iterate?handle=0&limit=5000&access_token=AHajD8T7Q9SwxZbTCgoxNAA)
 
