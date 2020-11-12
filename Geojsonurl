@@ -1,7 +1,4 @@
 # Geojson urls
 >replace the space I.d and access token with your "here data hub" credentials to view the code and the map with Geojson tools
 
-http://geojson.tools/index.html?url=https://xyz.api.here.com/hub/spaces/Rv3JLYSi/iterate?handle=0&limit=5000&access_token=AHajD8T7Q9SwxZbTCgoxNAA
-http://geojson.tools/index.html?url=https://xyz.api.here.com/hub/spaces/SZ6S2aFI/iterate?handle=0&limit=5000&access_token=AHajD8T7Q9SwxZbTCgoxNAA
-http://geojson.tools/index.html?url=https://xyz.api.here.com/hub/spaces/BUCweKrb/iterate?handle=0&limit=5000&access_token=AHajD8T7Q9SwxZbTCgoxNAA
-http://geojson.tools/index.html?url=https://xyz.api.here.com/hub/spaces/FUdbWPYF/iterate?handle=0&limit=5000&access_token=AHajD8T7Q9SwxZbTCgoxNAA
+http://geojson.tools/index.html?url=https://xyz.api.here.com/hub/spaces/{Your-Space-id/iterate?handle=0&limit=5000&access_token={Your-Access-token]
