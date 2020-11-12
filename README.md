@@ -8,5 +8,8 @@
 
 ![20201112_024701.png](https://user-images.githubusercontent.com/72520148/98884924-61869580-2491-11eb-8b8c-2b188f1b6570.png)
 
-http://geojson.tools/index.html?url=https://xyz.api.here.com/hub/spaces/NUCweKrb/iterate?handle=0&limit=5000&access_token=AHajD8T7Q9SwxZbTCgoxNAA
+[**Kano places**](http://geojson.tools/index.html?url=https://xyz.api.here.com/hub/spaces/BUCweKrb/iterate?handle=0&limit=5000&access_token=AHajD8T7Q9SwxZbTCgoxNAA)
+
+![20201112_031149.png](https://user-images.githubusercontent.com/72520148/98886689-d5766d00-2494-11eb-804f-61b7ba51025d.png)
+
 http://geojson.tools/index.html?url=https://xyz.api.here.com/hub/spaces/SZ6S2aFI/iterate?handle=0&limit=5000&access_token=AHajD8T7Q9SwxZbTCgoxNAA
