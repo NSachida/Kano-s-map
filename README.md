@@ -35,4 +35,4 @@ that can quickly display data from various sources, highlight and inspect specif
 
 ## Getting around
 
-![Tool Overview]https://www.here.xyz/cli/viewer-tool/images/viewer-parts.png
+![Tool Overview](https://www.here.xyz/cli/viewer-tool/images/viewer-parts.png)
