@@ -29,10 +29,10 @@ that can quickly display data from various sources, highlight and inspect specif
 > #### Hint: GeoJSON Tool URL
 >
 > Bookmark the GeoJSON Tool at:
-> ![http://geojson.tools/](http://geojson.tools/)
+> [http://geojson.tools/](http://geojson.tools/)
 
 [**Here** Data Hub GeoJSON Tool](https://www.here.xyz/cli/viewer-tool/)
 
 ## Getting around
 
-![Tool Overview](images/viewer-parts.png)
+![Tool Overview]https://www.here.xyz/cli/viewer-tool/images/viewer-parts.png
